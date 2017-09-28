@@ -10,6 +10,10 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+            //TEST 1
+
+            //TEST2
+            int a = 1;
         }
     }
 }
